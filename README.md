@@ -1,7 +1,7 @@
 # e-commerce-back-end-sequelize
 
 ## Purpose
-To create models, associations and the routes needed for CRUD operations on the Categories, Tags, and Products of a companies database
+To create models, associations and the routes needed for CRUD operations on the Categories, Tags, and Products of a company's database.
 
 ## Installation
 Git clone this repositories code into your chosen folder. Open terminal in root folder and "npm install" to install all needed dependencies. Create a .env folder and add your database name, your mysql username and password. Make sure the database name is also changed in the db/schema file. 
